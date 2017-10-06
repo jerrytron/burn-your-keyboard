@@ -1,0 +1,24 @@
+= Summary
+
+. link:README.adoc[Cover]
+
+. link:background/README.adoc[A Background]
+.. link:background/INTRODUCTION.adoc[Introduction]
+.. link:background/PHYSICAL.adoc[Living in the Physical World]
+.. link:background/HID.adoc[The Human Interface Device]
+
+. link:design/README.adoc[Design]
+.. link:design/FFCC.adoc[What is it for?]
+.. link:design/FORM.adoc[Form]
+.. link:design/FUNCTION.adoc[Function]
+.. link:design/CONTENT.adoc[Content]
+.. link:design/CONTEXT.adoc[Context]
+
+. link:getting-started/README.adoc[Getting Started]
+.. link:getting-started/SHOPPING.adoc[Let's go shopping!]
+... link:getting-started/TERMS.adoc[Categories & Terms]
+... link:getting-started/LIST.adoc[The List]
+... link:getting-started/NEED.adoc[What do you NEED?]
+
+. link:conclusion:README.adoc[Conclusion]
+
